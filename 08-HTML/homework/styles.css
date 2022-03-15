@@ -1,0 +1,77 @@
+body{
+    background-image: url("https://img.freepik.com/foto-gratis/copia-espacio-ingredientes-comida-italiana_23-2148551732.jpg?t=st=1646956390~exp=1646956990~hmac=8b9a2531586ee4695c259684e05cf0a0896dc45f151ddaad0eba74f9c7bc83d6&w=996");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color:rgb(114, 147, 209);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    -webkit-text-stroke:1px rgb(16, 57, 77);
+}
+h3{
+    color:rgb(52, 110, 110) ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color:rgb(52, 110, 110) ;
+}
+p{
+    color: dimgray;
+}
+img{ 
+    display: block;  
+    width:400px;
+    height: 200px;
+ 
+
+}
+
+.lista{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    padding: 5px 0px;
+    color: rgb(52, 110, 110);
+}  
+
+li{
+
+    width: 400px;
+   list-style: none;
+   
+    
+}
+ul{
+   position: absolute;
+    left: 60px;
+    
+    
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#thirdDiv{
+    
+    position: relative;
+    height: 600px;
+    width: 500px;
+    background-color: hsl(22, 71%, 86%);
+    padding: 50px;
+    border: 2px solid #f1f1ed;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    
+}
+
